@@ -12,6 +12,6 @@ A Eurorack VCO powered by AS3340
 
 [![schematic](img/schematic.png "schematic")](img/schematic.png)
 
-[![PCB front](img/pcb_front.jpg "PCB front")](img/pcb_front.pdf)
+[![PCB front](img/pcb_front.png "PCB front")](img/pcb_front.png)
 
-[![PCB back](img/pcb_back.jpg "PCB back")](img/pcb_back.pdf)
+[![PCB back](img/pcb_back.png "PCB back")](img/pcb_back.png)
