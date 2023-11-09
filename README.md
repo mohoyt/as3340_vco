@@ -37,9 +37,9 @@ A Eurorack VCO powered by AS3340
 * The digisound guide was helpful in tuning. Focus on getting the relationship between 1v/octave at lowish freqs with trimmer 2 while octave switch is off. Then use trimmer 1 to tune with keyboard with the fine tune pot in the middle position. Trimmer 3 can be used to adjust linearity at high freqs. 
 
 ## Known Issues
-[] Some resistor values need updating in BOM
-[] Holes for toggle switches are slightly too close tigether so legs will need bent to fit until footprint is updated. 
-[] Footprint for poly timing cap could be much bigger
+- [ ] Some resistor values need updating in BOM
+- [ ] Holes for toggle switches are slightly too close tigether so legs will need bent to fit until footprint is updated. 
+- [ ] Footprint for poly timing cap could be much bigger
 
 [![schematic](img/schematic.png "schematic")](img/schematic.png)
 
