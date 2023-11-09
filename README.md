@@ -24,9 +24,22 @@ A Eurorack VCO powered by AS3340
 * [AI Synthesis' VCO](https://aisynthesis.com/product/ai011-voltage-controlled-oscillator/)
 
 ## Status
-* Awaiting first batch of PCBs. Not tested yet. Use this design at your own risk. 
-* Lots of standing resistors to maximise 
-* No panel yet
+* First batch of PCBs arrived and 1 built. Working and tunable. 
+* Lots of standing resistors to maximise soldering challenges
+* 3d printed panel designed and will be tested soon
+* Use this design at your own risk
+
+## Build notes
+* Pay close attention to the iBOM to get the right positioning
+* Make sure you do the components under the ICs before you solder the IC sockets
+* Start with the shorter components and work your way up (I started with resistors and diodes)
+* Do panel components last (and ideally mount on panel before soldering to get best alignment)
+* The digisound guide was helpful in tuning. Focus on getting the relationship between 1v/octave at lowish freqs with trimmer 2 while octave switch is off. Then use trimmer 1 to tune with keyboard with the fine tune pot in the middle position. Trimmer 3 can be used to adjust linearity at high freqs. 
+
+## Known Issues
+[] Some resistor values need updating in BOM
+[] Holes for toggle switches are slightly too close tigether so legs will need bent to fit until footprint is updated. 
+[] Footprint for poly timing cap could be much bigger
 
 [![schematic](img/schematic.png "schematic")](img/schematic.png)
 
