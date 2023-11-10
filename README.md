@@ -6,6 +6,8 @@ A Eurorack VCO powered by AS3340
 * Lots of standing resistors and diodes to help achieve this (so it's a super crowded PCB)
 * See BOM info [here](bom/ibom.html)
 
+[![front](img/3340_front.jpeg "Module front")](img/3340_front.jpeg)
+
 ## Inputs
 * 1v/Oct In
 * CV2 In
@@ -42,6 +44,8 @@ A Eurorack VCO powered by AS3340
 - [ ] Footprint for poly timing cap could be much bigger
 
 [![schematic](img/schematic.png "schematic")](img/schematic.png)
+
+[![back](img/3340_back.jpeg "Module back")](img/3340_back.jpeg)
 
 [![PCB front](img/pcb_front.png "PCB front")](img/pcb_front.png)
 
