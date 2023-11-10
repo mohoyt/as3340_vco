@@ -1945,7 +1945,7 @@
     (property "Reference" "R11" (at 134.62 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1M5" (at 134.62 102.87 90)
+    (property "Value" "1M2" (at 134.62 102.87 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" (at 134.62 107.188 90)
