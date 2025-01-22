@@ -28,7 +28,7 @@ A Eurorack VCO powered by AS3340
 ## Status
 * First batch of PCBs arrived and 1 built. Working and tunable. 
 * Lots of standing resistors to maximise soldering challenges
-* 3d printed panel designed and will be tested soon
+* 3d printed panel designed (now available in panels folder)
 * Use this design at your own risk
 
 ## Build notes
@@ -40,7 +40,7 @@ A Eurorack VCO powered by AS3340
 
 ## Known Issues
 - [x] Some resistor values need updating in BOM
-- [ ] Holes for toggle switches are slightly too close tigether so legs will need bent to fit until footprint is updated. 
+- [ ] Holes for toggle switches are slightly too close together so legs will need bent to fit until footprint is updated. 
 - [ ] Footprint for poly timing cap could be much bigger
 
 [![schematic](img/schematic.png "schematic")](img/schematic.png)
